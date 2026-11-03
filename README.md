@@ -58,3 +58,6 @@ circuitlab/
 ## License
 
 This project is open source under the MIT License. Add a `LICENSE` file if you choose to distribute it under that license.
+
+## Notes
+If you have a problem to open the website, email me instantly.
